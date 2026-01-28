@@ -474,4 +474,13 @@ footer{
         margin-bottom: 4vw;
         margin-right: 3vw
     }
+    .header_search{
+        width: 5vw;
+        height: 5vw;
+        margin-left: 1vw;
+    }
+    .header_logo{
+        width: 11vw;
+        height: 4vw;
+    }
 }

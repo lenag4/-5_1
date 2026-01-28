@@ -419,7 +419,7 @@ footer{
 }
 @media(max-width: 375px), (max-width: 767px){
     body{
-        font-size: 0.5em;
+        font-size: 0.6em;
     }
     .main_block4_list1{
         grid-template-columns: repeat(2, 1fr); 
@@ -451,7 +451,7 @@ footer{
         grid-column-end: 3;
     }
     .main_block1_img1{
-        height: 50vw;
+        height: 60vw;
     }
     .button_main_block1{
         margin-bottom: 8vw;
@@ -473,5 +473,8 @@ footer{
     .footer_block1_text{
         margin-bottom: 4vw;
         margin-right: 3vw
+    }
+    .footer_form_submit{
+        margin-left: -10vw;
     }
 }
